@@ -1,0 +1,7 @@
+{
+  "name": "Student Tracker",
+  "description": "Smart student journey tracking system with real-time QR scanning, role dashboards, persistent chime & voice alerts, ID card generator, and Supabase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
